@@ -10,6 +10,16 @@ Bikeshare Analysis Python Project
 Analysis project to allow user to analyze preconditioned data provided by a bikeshare company
 to key metrics and data concerning usage
 
+The file queries the user for which city, all months or a particular month and all days or a particular day of the week to generate a set of statistics
+Cities == Chicago, Los Angeles or Washington
+Months are January thru June
+Standard Days of the Week Monday through Sunday
+
+
+The user input queries are structured to allow the user to correct entry errors (misspellings, incorrect characters, etc), exit or continue..
+
+Included are several plots which will stop the analysis routines and allow the user to view the plot and decide to save or close and continue the statistics outputs.
+
 ### Files used
 Bikeshare_2.py
 
