@@ -8,7 +8,7 @@ Bikeshare Analysis Python Project
 
 ### Description
 Analysis project to allow user to analyze preconditioned data provided by a bikeshare company
-to key metrics and data concerning usage
+to key metrics and data concerning usage like ridership and station statistics
 
 The file queries the user for which city, all months or a particular month and all days or a particular day of the week to generate a set of statistics
 Cities == Chicago, Los Angeles or Washington

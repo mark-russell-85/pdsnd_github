@@ -11,7 +11,7 @@ MONTHS = ['all', 'january', 'february', 'march', 'april','may', 'june']
 DAYS = ['all', 'monday', 'tuesday','wednesday','thursday','friday','saturday','sunday']
 """
 predefine constants for list or months for validity checks, using all as the first
-item in the list so indexes align to month and day numbers
+item in the list so indexes align to month and day numbers so there is a ready list
 """
 def get_filters():
     """
